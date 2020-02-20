@@ -1,2 +1,2 @@
 # SharpExeBuilder
-Simple ExeBuilder(Patcher) on C#
+Simple ExeBuilder(Patcher) via PE-Patching written in C#
